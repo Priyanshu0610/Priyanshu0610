@@ -213,7 +213,4 @@ Bushido (Core Competencies):
 
 *Passionate about crafting visually stunning and performance-optimized user interfaces.*
 
-<!-- IMPORTANT: Upload your custom tree or cloud image and name it "bottom_banner.jpg" -->
-<img src="bottom_banner.jpg" width="100%" alt="Samurai Bottom Banner"/>
-
 </div>
