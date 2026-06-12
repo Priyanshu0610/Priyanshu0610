@@ -1,10 +1,6 @@
 <div align="center">
 
-<!-- 
-IMPORTANT: Please drop the cloud or tree image you uploaded into your GitHub repository 
-and name it "samurai_banner.jpg" so it shows up perfectly here! 
--->
-<img src="samurai_banner.jpg" width="100%" alt="Samurai Banner"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a1a,100:8b0000&height=180&section=header&text=Priyanshu%20Raj&fontSize=60&fontColor=ffffff&animation=twinkling&desc=Frontend%20Developer%20%7C%20AI%20Web%20Dev%20Intern&descSize=22&descAlignY=65" width="100%" alt="Samurai Top Banner"/>
 
 <br/>
 
@@ -243,5 +239,7 @@ Bushido (Core Competencies):
 <div align="center">
 
 *Passionate about crafting visually stunning and performance-optimized user interfaces.*
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8b0000,100:1a1a1a&height=120&section=footer" width="100%" alt="Samurai Footer"/>
 
 </div>
