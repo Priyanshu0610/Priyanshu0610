@@ -1,10 +1,19 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a1a,100:8b0000&height=180&section=header&text=Priyanshu%20Raj&fontSize=60&fontColor=ffffff&animation=twinkling&desc=Frontend%20Developer%20%7C%20AI%20Web%20Dev%20Intern&descSize=22&descAlignY=65" width="100%" alt="Samurai Top Banner"/>
+<!-- 
+IMPORTANT: Please drop the cloud or tree image you uploaded into your GitHub repository 
+and name it "samurai_banner.jpg" so it shows up perfectly here! 
+-->
+<img src="samurai_banner.jpg" width="100%" alt="Samurai Banner"/>
 
 <br/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Cinzel&weight=700&size=26&duration=3000&pause=1000&color=D32F2F&center=true&vCenter=true&width=960&lines=Path+of+the+Frontend+Ronin;Mastering+AI-Driven+Web+Arts;Disciplined+BCA+Student;Forging+Digital+Experiences" alt="Typing SVG" />
+
+<br/>
+
+> *"There is nothing outside of yourself that can ever enable you to get better, stronger, richer, quicker, or smarter. Everything is within. Everything exists."*  
+> — **Miyamoto Musashi**
 
 <br/>
 
@@ -38,46 +47,56 @@
 
 <br/>
 
----
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="Sword Divider">
+</div>
 
-## ⛩️ About Me
+## ⛩️ About Me [ 侍 - Samurai ]
 
-I am a detail-oriented and highly disciplined **Frontend Developer** and BCA student with a strong foundation in logical programming. Much like a samurai mastering their blade, I am passionate about crafting visually stunning, responsive, and performance-optimized user interfaces. Expert at bringing designs to life using modern animation frameworks like GSAP and Locomotive Scroll.
+<img align="right" src="https://i.pinimg.com/originals/26/51/bf/2651bfe9c9c3dddc9d94fc2ab1ff1cb9.gif" width="200" alt="Samurai Rain GIF" style="border-radius: 10px;" />
+
+I am a detail-oriented and highly disciplined **Frontend Developer** and BCA student with a strong foundation in logical programming. Much like a samurai mastering their blade, I am passionate about crafting visually stunning, responsive, and performance-optimized user interfaces. I am an expert at bringing designs to life using modern animation frameworks like GSAP and Locomotive Scroll.
 
 Currently, I'm working as an **AI Web Development Intern** at **Inamigos Foundation**, where I combine artificial intelligence models with modern web technologies to build smart, scalable applications. When I'm not training my skills at work, I actively build open-source projects to bridge academic theory with modern industry practices.
 
----
+<br/>
 
-## 📜 Tech Arsenal
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="Sword Divider">
+</div>
 
-### Languages
+## 📜 Tech Arsenal [ 術 - Techniques ]
+
+### 🧱 The Foundation (Languages)
 <p>
   <img src="https://skillicons.dev/icons?i=c,cpp,python,javascript&theme=dark"/>
 </p>
 
-### Frontend
+### 🗡️ The Sharp Blade (Frontend)
 <p>
   <img src="https://skillicons.dev/icons?i=html,css,js&theme=dark"/>
 </p>
 
-### Backend & Databases
+### 🥷 The Hidden Techniques (Backend & Databases)
 <p>
   <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb&theme=dark"/>
 </p>
 
-### Cloud & Tooling
+### ☁️ The Ninja Tools (Cloud & DevOps)
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,postman&theme=dark"/>
 </p>
 
-### Currently Mastering
+### 🏯 The Dojo (Currently Mastering)
 <p>
   <img src="https://skillicons.dev/icons?i=react&theme=dark"/>
 </p>
 
----
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="Sword Divider">
+</div>
 
-## 🏮 Experience
+## 🏮 Experience [ 道 - The Path ]
 
 ### AI Web Development Intern
 **Inamigos Foundation**
@@ -85,9 +104,11 @@ Currently, I'm working as an **AI Web Development Intern** at **Inamigos Foundat
 
 Currently working as a full-time intern focusing on AI Web Development, bridging the gap between intelligent AI systems and robust frontend web applications.
 
----
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="Sword Divider">
+</div>
 
-## ⚔️ Featured Projects
+## ⚔️ Featured Projects [ 刃 - Blade ]
 
 <details>
 <summary><b>Two Good Co. — Interactive Frontend Showcase</b></summary>
@@ -123,9 +144,11 @@ Currently working as a full-time intern focusing on AI Web Development, bridging
 
 </details>
 
----
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="Sword Divider">
+</div>
 
-## 🎌 Certifications & Simulations
+## 🎌 Certifications [ 証 - Proof ]
 
 <div align="center">
 
@@ -135,9 +158,11 @@ Currently working as a full-time intern focusing on AI Web Development, bridging
 
 </div>
 
----
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="Sword Divider">
+</div>
 
-## 🐉 GitHub Analytics
+## 🐉 GitHub Analytics [ 龍 - Dragon ]
 
 <div align="center">
 
@@ -151,9 +176,11 @@ Currently working as a full-time intern focusing on AI Web Development, bridging
 
 </div>
 
----
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="Sword Divider">
+</div>
 
-## 🩸 Contribution Activity
+## 🩸 Contribution Activity [ 魂 - Spirit ]
 
 <div align="center">
 
@@ -167,9 +194,11 @@ Currently working as a full-time intern focusing on AI Web Development, bridging
 
 </div>
 
----
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="Sword Divider">
+</div>
 
-## 🎯 The Path Forward
+## 🎯 The Path Forward [ 志 - Ambition ]
 
 ```yaml
 Training:
@@ -187,9 +216,11 @@ Bushido (Core Competencies):
   - Object-Oriented Programming
 ```
 
----
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="Sword Divider">
+</div>
 
-## 📫 Connect
+## 📫 Connect [ 結 - Bind ]
 
 <div align="center">
 
