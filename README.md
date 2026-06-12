@@ -1,11 +1,6 @@
 <div align="center">
 
-<!-- 
-IMPORTANT: Upload your two images to your GitHub repository.
-Name the one you want at the top "top_banner.jpg".
-Name the one you want at the bottom "bottom_banner.jpg".
--->
-<img src="top_banner.jpg" width="100%" alt="Samurai Top Banner"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a1a,100:8b0000&height=180&section=header&text=Priyanshu%20Raj&fontSize=60&fontColor=ffffff&animation=twinkling&desc=Frontend%20Developer%20%7C%20AI%20Web%20Dev%20Intern&descSize=22&descAlignY=65" width="100%" alt="Samurai Top Banner"/>
 
 <br/>
 
@@ -218,6 +213,7 @@ Bushido (Core Competencies):
 
 *Passionate about crafting visually stunning and performance-optimized user interfaces.*
 
+<!-- IMPORTANT: Upload your custom tree or cloud image and name it "bottom_banner.jpg" -->
 <img src="bottom_banner.jpg" width="100%" alt="Samurai Bottom Banner"/>
 
 </div>
