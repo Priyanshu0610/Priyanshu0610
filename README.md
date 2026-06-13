@@ -20,7 +20,7 @@
 </p>
 
 <p>
-  <a href="https://www.linkedin.com/in/priyanshu-raj-a848b9298" target="_blank">
+  <a href="www.linkedin.com/in/priyanshu-raj-0244bb377" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&color=0A66C2&labelColor=1A1A1A"/>
   </a>
   &nbsp;
@@ -224,7 +224,7 @@ Bushido (Core Competencies):
   <img src="https://img.shields.io/badge/Gmail-ishugood4u@gmail.com-D32F2F?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 &nbsp;
-<a href="https://www.linkedin.com/in/priyanshu-raj-a848b9298" target="_blank">
+<a href="www.linkedin.com/in/priyanshu-raj-0244bb377" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-Priyanshu_Raj-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 &nbsp;
