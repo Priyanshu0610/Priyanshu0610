@@ -47,7 +47,7 @@
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="Sword Divider">
 </div>
 
-## ⛩️ About Me [ 侍 - Samurai ]
+## ⛩️ About Me [ 侍 ]
 
 <img align="right" src="https://i.pinimg.com/originals/26/51/bf/2651bfe9c9c3dddc9d94fc2ab1ff1cb9.gif" width="200" alt="Samurai Rain GIF" style="border-radius: 10px;" />
 
@@ -61,7 +61,7 @@ Currently, I'm working as an **AI Web Development Intern** at **Inamigos Foundat
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="Sword Divider">
 </div>
 
-## 📜 Tech Arsenal [ 術 - Techniques ]
+## 📜 Tech Arsenal [ 術 ]
 
 ### 🧱 The Foundation (Languages)
 <p>
@@ -92,7 +92,7 @@ Currently, I'm working as an **AI Web Development Intern** at **Inamigos Foundat
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="Sword Divider">
 </div>
 
-## 🏮 Experience [ 道 - The Path ]
+## 🏮 Experience [ 道 ]
 
 ### AI Web Development Intern
 **Inamigos Foundation**
@@ -104,7 +104,7 @@ Currently working as a full-time intern focusing on AI Web Development, bridging
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="Sword Divider">
 </div>
 
-## ⚔️ Featured Projects [ 刃 - Blade ]
+## ⚔️ Featured Projects [ 刃 ]
 
 <details>
 <summary><b>Two Good Co. — Interactive Frontend Showcase</b></summary>
@@ -144,7 +144,7 @@ Currently working as a full-time intern focusing on AI Web Development, bridging
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="Sword Divider">
 </div>
 
-## 🎌 Certifications [ 証 - Proof ]
+## 🎌 Certifications [ 証 ]
 
 <div align="center">
 
@@ -158,7 +158,7 @@ Currently working as a full-time intern focusing on AI Web Development, bridging
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="Sword Divider">
 </div>
 
-## 🐉 GitHub Analytics [ 龍 - Dragon ]
+## 🐉 GitHub Analytics [ 龍 ]
 
 <div align="center">
 
@@ -176,7 +176,7 @@ Currently working as a full-time intern focusing on AI Web Development, bridging
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="Sword Divider">
 </div>
 
-## 🩸 Contribution Activity [ 魂 - Spirit ]
+## 🩸 Contribution Activity [ 魂 ]
 
 <div align="center">
 
@@ -194,7 +194,7 @@ Currently working as a full-time intern focusing on AI Web Development, bridging
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="Sword Divider">
 </div>
 
-## 🎯 The Path Forward [ 志 - Ambition ]
+## 🎯 The Path Forward [ 志 ]
 
 ```yaml
 Training:
@@ -216,7 +216,7 @@ Bushido (Core Competencies):
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="Sword Divider">
 </div>
 
-## 📫 Connect [ 結 - Bind ]
+## 📫 Connect [ 結 ]
 
 <div align="center">
 
